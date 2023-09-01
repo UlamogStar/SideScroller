@@ -6,7 +6,7 @@ public class MovingPlatform : MonoBehaviour
 {
     public Vector3 movementDirection = Vector3.right; // Set the movement direction in the Inspector
     public float speed = 1f;
-
+    //public int Color;
     private Vector3 originalPosition;
     private Vector3 targetPosition;
 
@@ -14,6 +14,9 @@ public class MovingPlatform : MonoBehaviour
     {
         originalPosition = transform.position;
         targetPosition = originalPosition + movementDirection;
+       // GameObject cube = GameObject.CreatePrimitive(PrimitiveType.Cube);
+        //var cubeRenderer = cube.GetComponent<Renderer>();
+        //cubeRenderer.material.SetColor("Red", Color.Red);
     }
 
     private void Update()

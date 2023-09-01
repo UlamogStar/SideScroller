@@ -38,5 +38,10 @@ public class PlayerController : MonoBehaviour
             rb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
             velocity.y = Mathf.Sqrt(jumpForce * -2 * gravity);
         }
+    
+    }
+    public void GiveHealth(int amount)
+    {
+        Debug.Log("Player picked up health");
     }
 }
