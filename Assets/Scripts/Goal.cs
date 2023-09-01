@@ -7,12 +7,12 @@ public class Goal : MonoBehaviour
 {
     private void OnTriggerEnter(Collider other)
     {
-        public goalAudioSource audioSource;
+        //public goalAudioSource audioSource;
         if (other.CompareTag("Player"))
         {
             Debug.Log("Level Complete");
             Time.timeScale = 0;
-            AudioSource.PlayClipAtPoint(UndertaleSFX2, transform.position);
+            //AudioSource.PlayClipAtPoint(UndertaleSFX2, transform.position);
         }
     }
     // Start is called before the first frame update
