@@ -5,10 +5,10 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {  
-    public float moveSpeed = 5f;
+    public float moveSpeed = 10f;
     public float jumpForce = 5f;
     public float gravity = -20f;
-    public int maxJumps =1;
+    public int maxJumps =2;
 
     public Transform groundCheck;
     public LayerMask groundLayer;
@@ -18,7 +18,6 @@ public class PlayerController : MonoBehaviour
    
     private CharacterController controller;
     private bool isGrounded;
-    private float groundCheckRadius = 2f;
     private int jumpsRemaining;
     private AudioSource audioSource;
     private void Start()
@@ -31,7 +30,8 @@ public class PlayerController : MonoBehaviour
     {
         // Check if the player is grounded
          bool isGrounded = Physics.Raycast(transform.position, Vector3.down, 0.1f);
-         isGrounded = Physics.CheckSphere(groundCheck.position, 0.1f, groundLayer);
+            
+        //isGrounded = Physics.CheckSphere(groundCheck.position, 0.1f, groundLayer);
         
 
 
