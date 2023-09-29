@@ -1,42 +1,7 @@
-<<<<<<< HEAD
-<<<<<<< Updated upstream
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Move : MonoBehaviour
-{
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-}
-=======
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-<<<<<<< Updated upstream
-public class Move : MonoBehaviour
-{
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-=======
 public class PlayerController : MonoBehaviour
 {
     public float moveSpeed = 5f;
@@ -76,27 +41,5 @@ public class PlayerController : MonoBehaviour
             jumpsRemaining--;
         }
 
->>>>>>> Stashed changes
     }
 }
->>>>>>> Stashed changes
-=======
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
-public class Move : MonoBehaviour
-{
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-}
->>>>>>> main
