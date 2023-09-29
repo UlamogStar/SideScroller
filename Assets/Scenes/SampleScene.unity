@@ -1295,10 +1295,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 78a6dec3bac7ecd4fabe6cfae9c9ade8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 <<<<<<< Updated upstream
 >>>>>>> Stashed changes
+=======
+>>>>>>> main
   target: {fileID: 0}
   offset: {x: 0, y: 2, z: -10}
   smoothing: 5
@@ -6351,6 +6354,7 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 <<<<<<< Updated upstream
@@ -6414,6 +6418,8 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: 1c90e9c3b74d6bd489660bbad5746d51, type: 3}
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
+=======
+>>>>>>> main
 --- !u!1 &1442379040
 GameObject:
   m_ObjectHideFlags: 0
@@ -7097,6 +7103,7 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 <<<<<<< Updated upstream
@@ -7127,6 +7134,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
+=======
+>>>>>>> main
     - target: {fileID: 6215770835462091318, guid: e6ac3ae2f5262394cb1a52385ea75645, type: 3}
       propertyPath: m_LocalPosition.x
       value: -59.34184
@@ -7171,14 +7180,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: LegCycle
       objectReference: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 <<<<<<< Updated upstream
 >>>>>>> Stashed changes
+=======
+>>>>>>> main
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 =======
@@ -7201,6 +7214,8 @@ PrefabInstance:
       addedObject: {fileID: 176294388}
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
+=======
+>>>>>>> main
   m_SourcePrefab: {fileID: 100100000, guid: e6ac3ae2f5262394cb1a52385ea75645, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
@@ -7225,6 +7240,7 @@ SceneRoots:
   - {fileID: 202874756}
   - {fileID: 576268132}
   - {fileID: 4575342512954752376}
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 =======
 <<<<<<< Updated upstream
@@ -7232,3 +7248,5 @@ SceneRoots:
   - {fileID: 1344559776}
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
+=======
+>>>>>>> main

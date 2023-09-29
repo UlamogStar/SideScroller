@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class CameraController : MonoBehaviour
 {
+<<<<<<< HEAD
 <<<<<<< Updated upstream
     // Start is called before the first frame update
     void Start()
@@ -41,5 +42,17 @@ public class CameraController : MonoBehaviour
         transform.position = smoothedPosition;
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
+=======
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+>>>>>>> main
     }
 }
