@@ -2939,7 +2939,6 @@ GameObject:
   - component: {fileID: 3645063165780970738}
   - component: {fileID: 131101627782727422}
   - component: {fileID: 7806277057256734291}
-  - component: {fileID: 5183206979030998460}
   m_Layer: 0
   m_Name: Ultimate_Walker_Rig (2)
   m_TagString: Untagged
@@ -3015,21 +3014,6 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!114 &5183206979030998460
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4169784665593091656}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: efe953317135f7d4cb3cd691dc5a68ed, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  moveSpeed: 5
-  jumpForce: 10
-  maxJumps: 2
 --- !u!1 &4189927336518445550
 GameObject:
   m_ObjectHideFlags: 0
