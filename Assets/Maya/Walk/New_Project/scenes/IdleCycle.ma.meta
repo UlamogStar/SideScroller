@@ -11,19 +11,7 @@ ModelImporter:
     materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
-<<<<<<< HEAD
-<<<<<<< Updated upstream
     bakeSimulation: 0
-=======
-<<<<<<< Updated upstream
-    bakeSimulation: 0
-=======
-    bakeSimulation: 1
->>>>>>> Stashed changes
->>>>>>> Stashed changes
-=======
-    bakeSimulation: 0
->>>>>>> main
     resampleCurves: 1
     optimizeGameObjects: 0
     removeConstantScaleCurves: 0
@@ -35,19 +23,7 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
-<<<<<<< HEAD
-<<<<<<< Updated upstream
     importConstraints: 0
-=======
-<<<<<<< Updated upstream
-    importConstraints: 0
-=======
-    importConstraints: 1
->>>>>>> Stashed changes
->>>>>>> Stashed changes
-=======
-    importConstraints: 0
->>>>>>> main
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -59,19 +35,7 @@ ModelImporter:
     isReadable: 0
   meshes:
     lODScreenPercentages: []
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-    globalScale: 1
-=======
-<<<<<<< Updated upstream
-    globalScale: 1
-=======
     globalScale: 100
->>>>>>> Stashed changes
->>>>>>> Stashed changes
-=======
-    globalScale: 1
->>>>>>> main
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
@@ -126,19 +90,7 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-<<<<<<< HEAD
-<<<<<<< Updated upstream
     globalScale: 1
-=======
-<<<<<<< Updated upstream
-    globalScale: 1
-=======
-    globalScale: 100
->>>>>>> Stashed changes
->>>>>>> Stashed changes
-=======
-    globalScale: 1
->>>>>>> main
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
