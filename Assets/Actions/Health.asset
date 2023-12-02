@@ -9,7 +9,16 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6416ec41dbe0c426aa40a98cd756c9cd, type: 3}
-  m_Name: Jump
+  m_Script: {fileID: 11500000, guid: 21667c5c1ee7a4111a1243f78270d1dd, type: 3}
+  m_Name: Health
   m_EditorClassIdentifier: 
-  value: Jump
+  value: 1
+  minValueEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  maxValueEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  updateValueEvent:
+    m_PersistentCalls:
+      m_Calls: []

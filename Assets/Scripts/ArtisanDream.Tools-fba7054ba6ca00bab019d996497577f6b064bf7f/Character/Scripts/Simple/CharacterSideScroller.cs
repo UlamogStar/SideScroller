@@ -37,7 +37,7 @@ public class CharacterSideScroller : MonoBehaviour
         }
 
         // Jumping
-        if (Input.GetButton("Jump"))
+        if (Input.GetButtonDown("Jump"))
         {
             if (controller.isGrounded || jumpsRemaining > 0)
             {

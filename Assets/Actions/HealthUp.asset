@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e43b46a3d0a94dbaaa0b32937ace878, type: 3}
   m_Name: HealthUp
   m_EditorClassIdentifier: 
-  value: 0
+  value: 0.1
   minValueEvent:
     m_PersistentCalls:
       m_Calls: []
@@ -21,17 +21,5 @@ MonoBehaviour:
       m_Calls: []
   updateValueEvent:
     m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
-        m_Mode: 0
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
+      m_Calls: []
   inputType: 
